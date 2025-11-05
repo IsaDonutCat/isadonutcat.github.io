@@ -113,7 +113,11 @@ navbar
             justify-content: space-evenly;
         }
 
-    
+  .outreach {
+    width: 200px;
+    height: 120px;
+}
+
 hr
 {
     border: solid 1px;
