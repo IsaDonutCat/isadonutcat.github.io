@@ -114,6 +114,8 @@ navbar
         }
 
   .outreach {
+    display: flex;
+     background-color: DodgerBlue;
     width: 200px;
     height: 100px;
 }
