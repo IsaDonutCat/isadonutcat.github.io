@@ -114,13 +114,8 @@ navbar
         }
 
   .outreach {
-    width: 100px;
-    height: 50px;
-}
-
-.outreach img {
-    width: 100%;
-    height: auto;
+    width: 200px;
+    height: 100px;
 }
 
 hr
