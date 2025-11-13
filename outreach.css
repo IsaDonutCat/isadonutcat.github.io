@@ -113,12 +113,13 @@ navbar
             justify-content: space-evenly;
         }
 
-  .outreach {
-    display: flex;
-     background-color: DodgerBlue;
-    width: 200;
-    height: 20px;
-}
+  #imgDisplay
+  {
+    display:flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+  }
 
 hr
 {
